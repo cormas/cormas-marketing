@@ -1,2 +1,3 @@
-# marketing
-Cormas logos, slides, posters, etc.
+# Cormas Marketing
+
+Logos, slides, posters, etc.
